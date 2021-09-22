@@ -274,14 +274,15 @@ img {
 }
 
 .work .content .workBx {
-    width: 50%;
+    height: 320px;
+    width: 320px;
     padding: 20px;
 }
 
 .work .content .workBx img {
     max-width: 100%;
-    height: 510px;
-    width: 510px;
+    height: 320px;
+    width: 320px;
 }
 
 .testimonial {
